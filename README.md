@@ -4,7 +4,7 @@ small and easy to use tool to make the add/commit/push process a little bit fast
 <b>use the following commands to install (replace zshrc by bashrc or whatever you're using):</b>
 
 $ git clone https://github.com/lpellier/add_commit_push.git \~/.add_commit_push<br>
-$ echo alias acp=\~/.add_commit_push/acp.sh >> ~/.zshrc<br>
+$ echo "alias acp=\~/.add_commit_push/acp.sh" >> ~/.zshrc<br>
 $ source ~/.zshrc
 
 to run the command, type:
