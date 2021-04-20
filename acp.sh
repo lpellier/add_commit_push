@@ -7,7 +7,7 @@ RESET="\e[0m"
 BRANCH="$1";
 if [ -z "$BRANCH" ]
 then
-	printf 'Please run the following command : "acp <branch>"\n'
+	printf 'Please run the following command : \nacp "branch"\n'
 	exit
 fi
 
