@@ -1,7 +1,7 @@
 # add_commit_push
 small and easy to use tool to make the add/commit/push process a little bit faster
 
-no installation script for now, just put an alias in your zsrch : alias acp="acp_path"
+no installation script for now, just put an alias in your zshrc (if you use zsh) : alias acp="acp_path"
 
 to run the command, type:
 $ acp "branch"
