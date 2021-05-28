@@ -2,7 +2,7 @@
 Small and easy to use tool to make the add/commit/push process a little bit faster
 
 ## Installation
-<b>Use the following commands to install (replace zshrc by bashrc or whatever you're using):</b>
+<b>Use the following commands to install (replace zshrc by bashrc or whatever shell you're using):</b>
 
 ```bash
 git clone https://github.com/lpellier/add_commit_push.git ~/.add_commit_push
@@ -14,7 +14,7 @@ source ~/.zshrc
 
 To run the script, type:
 ```bash
-acp "branch"
+acp <branch>
 ```
 It needs to be run from your git repo.
 
